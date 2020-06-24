@@ -6,6 +6,8 @@ eleventyNavigation:
   key: About FTAA
   order: 2
 ---
+![Federation of Telugu Associations in Australia Logo](/static/img/ftaa-logo.jpg "Federation of Telugu Associations in Australia Logo")
+
 FTAA is emerging to be the peak body representing all Telugu Community Groups in the Australia; to advocate on matters of interest to the Telugu Communities; to promote Art & Culture and to foster friendships with the wider Australian Community.Any association represented by the Telugu community can become member of FTAA. The organisation is to represent the issues relevant for the community at a strategic level. Currently, FTAA is representing the issues of Telugu language recognition for translators and interpreters in Australia. 
 
 **Constitution:** The constitution for Federation of Telugu Associations in Australia is drafted and available for public consultation. 

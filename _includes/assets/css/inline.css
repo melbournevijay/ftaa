@@ -1,7 +1,8 @@
 :root {
-	--primary: blue;
+	--primary: #BC1C2C;
 	--secondary: white;
-	--background: #FFF0EB;
+	--background: #FFF;
+	--header-bachground: #F5EFD5;
 }
 
 *, *:before, *:after {
@@ -22,8 +23,11 @@ body {
 	background-color: var(--background);
 }
 
-main {
+header,
+main,
+footer {
 	max-width: 37.5em;
+	margin: 0 auto;
 }
 
 p,

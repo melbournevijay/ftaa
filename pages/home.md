@@ -19,7 +19,7 @@ FTAA is a federation of associations/groups to represent all Telugu communities 
 
 <a href="/posts/members/">![Members of Federation of Telugu Associations in Australia (FTAA)](/static/img/members.png)</a>
 
-[View all members](/posts/members/)
+[View all members](/members/)
 
 
 

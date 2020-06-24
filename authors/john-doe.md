@@ -1,5 +1,5 @@
 ---
-name: John Doe
-email: johndoe@example.com
-github: https://github.com/notjohndoe
+name: FTAA
+email: hello.ftaa@gmail.com
+github: https://github.com/ftaa-org/
 ---

@@ -5,7 +5,7 @@ author: FTAA
 summary: "By recognising Telugu as Community Language several benefits are
   extended to our community and individuals. "
 tags:
-  - current focus
+  - post
 ---
 
 

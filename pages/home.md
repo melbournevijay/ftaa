@@ -1,20 +1,14 @@
 ---
 layout: layouts/home.njk
 title: Home
-date: 2016-01-01T00:00:00.000Z
+date: 2020-06-24T09:52:49.373Z
 permalink: /
 eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
+### Federation of Telugu Associations in Australia (FTAA)
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
+![Federation of Telugu Associations in Australia (FTAA) Logo](/static/img/welcome-img.png)
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
-
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
-
-Or click the button below to deploy your own copy of this project to Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+FTAA is a federation of associations/groups to represent all Telugu communities in Australia. Our vision is to be the peak body to represent all Telugu Community Groups with unity in Australia; to advocate on matters of interest to the Telugu Communities; to promote Art & Culture and foster friendships with the wider Australian Community. [Read more](/about/)

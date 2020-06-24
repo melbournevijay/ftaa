@@ -1,15 +1,13 @@
 ---
 layout: layouts/contact.njk
-title: Get in touch
+title: Contact FTAA
 section: contact
-date: 2018-01-01
+date: 2020-06-24T09:46:13.940Z
 permalink: /contact/index.html
 eleventyNavigation:
   key: Contact
-  order: 3
+  order: 4
 ---
-The contact form on this page uses
-[Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
-submissions, and saves them in the connected Netlify account where
-notifications can optionally be configured. Each submission is passed through a
-spam filter and if flagged, will display a CAPTCHA challenge to the user.
+Please fill the contact form below with your details and we shall contact you as soon as possible.
+
+Email: [President.FTAA@gmail.com](mailto:President.FTAA@gmail.com) or [Secretary.FTAA@gmail.com](mailto:Secretary.FTAA@gmail.com)

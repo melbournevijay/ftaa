@@ -3,7 +3,7 @@ title: FTAA Members
 date: 2020-06-24T11:23:24.177Z
 permalink: /members/
 eleventyNavigation:
-  order: 0
+  order: 2
   key: Members
 ---
 FTAA is made up of several members

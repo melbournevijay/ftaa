@@ -4,7 +4,7 @@ date: 2020-06-24T10:15:11.479Z
 author: FTAA
 summary: Campaign to get Telugu Language to be recognised as National Community Language
 tags:
-  - current focus
+  - post
 ---
 **Mother Language – Telugu** 
 

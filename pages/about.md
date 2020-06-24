@@ -1,9 +1,9 @@
 ---
-title: About
+title: About FTAA
 date: 2020-06-24T09:36:18.752Z
 permalink: /about/index.html
 eleventyNavigation:
-  key: About FTAA
+  key: About
   order: 2
 ---
 ![Federation of Telugu Associations in Australia Logo](/static/img/ftaa-logo.jpg "Federation of Telugu Associations in Australia Logo")

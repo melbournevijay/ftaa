@@ -1,32 +1,25 @@
 ---
-title: About us
-date: 2017-01-01T00:00:00.000Z
+title: About
+date: 2020-06-24T09:36:18.752Z
 permalink: /about/index.html
 eleventyNavigation:
-  key: About
-  order: 1
+  key: About FTAA
+  order: 2
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+FTAA is emerging to be the peak body representing all Telugu Community Groups in the Australia; to advocate on matters of interest to the Telugu Communities; to promote Art & Culture and to foster friendships with the wider Australian Community.Any association represented by the Telugu community can become member of FTAA. The organisation is to represent the issues relevant for the community at a strategic level. Currently, FTAA is representing the issues of Telugu language recognition for translators and interpreters in Australia. 
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+**Constitution:** The constitution for Federation of Telugu Associations in Australia is drafted and available for public consultation. 
 
-## Our services
+## AIMS AND OBJECTIVES
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+1. To present a unified front for all its member associations and promote the advancement of Telugu communities (hereinafter referred to as “the Telugu community”) in the Australia.
+2. To act as a channel of communication between the Telugu community and the Commonwealth Government, the Territory/State Governments or the Indian Government on welfare, social and economic matters where practical and justifiable.
+3. To continue the working on recognition of Telugu as a community language in all levels of governments and introducing in the schools in Australia.
+4. To promote among the Telugu people resident in Australia and, in particular, awareness about Telugu community being inclusive and responsible Australian citizens and to cultivate a feeling of mutual respect through increased social & cultural interaction, sport and recreation.
+5. To establish Telugu retirement villages as the community hubs and promote “adopt a grandparent” schemes to pass on the intergenerational values.
+6. To establish such facilities and to do all such other lawful activities as are incidental or conducive to the attainment of the vision of the Federation.
+7. To coordinate resources and enable the local member associations to celebrate major Telugu functions and festivals every year.
 
-### Blue-sky thinking
+Download the document in PDF (Attach the PDF document). 
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-#### Management frameworks
-
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-##### Regulatory convergence
-
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Provide comments to [President.FTAA@gmail.com](http://web.archive.org/web/20200308152131/mailto:President.FTAA@gmail.com)

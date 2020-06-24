@@ -36,5 +36,4 @@ There are no upcoming events.
 [View All Events](/tags/events/)
 
 ## Follow Us
-<a class="facebook" title="Federation of Telugu Associations in Australia Facebook" href="https://www.facebook.com/ftaa.org.au" target="_blank" rel="noopener">Facebook</a> | 
-<a class="" title="Federation of Telugu Associations in Australia YouTube Channel" href="https://www.youtube.com/channel/UCzZd7LhL6SunhyAYAqHIhJw" target="_blank" rel="noopener">YouTube</a>
+<a class="facebook" title="Federation of Telugu Associations in Australia Facebook" href="https://www.facebook.com/ftaa.org.au" target="_blank" rel="noopener">Facebook</a> | <a class="" title="Federation of Telugu Associations in Australia YouTube Channel" href="https://www.youtube.com/channel/UCzZd7LhL6SunhyAYAqHIhJw" target="_blank" rel="noopener">YouTube</a>

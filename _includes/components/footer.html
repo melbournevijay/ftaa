@@ -4,13 +4,3 @@
       <span class="designer">Powered by <a href="https://vjdesign.com.au/" target="_blank" title="Theme development and design by VJ design">VJ design</a></span>
   </div>  
 </footer>
-
-<script>
-var navButton = document.querySelector('nav button');
-navButton.addEventListener('click', function() {
-  let expanded = this.getAttribute('aria-expanded') === 'true' || false;
-  this.setAttribute('aria-expanded', !expanded);
-  let menu = this.nextElementSibling;
-  menu.hidden = !menu.hidden;
-});
-</script>

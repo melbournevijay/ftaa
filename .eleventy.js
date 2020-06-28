@@ -14,7 +14,7 @@ module.exports = function(eleventyConfig) {
   // layout aliases! Say you have a bunch of existing content using
   // layout: post. If you don’t want to rewrite all of those values, just map
   // post to a new file like this:
-  // eleventyConfig.addLayoutAlias("post", "layouts/my_new_post_layout.njk");
+  // eleventyConfig.addLayoutAlias("post", "layouts/my_new_post_layout.html");
 
   // Merge data instead of overriding
   // https://www.11ty.dev/docs/data-deep-merge/

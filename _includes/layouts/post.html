@@ -1,15 +1,20 @@
 ---
-layout: layouts/base.njk
+layout: layouts/base.html
 section: post
 ---
+<nav>
+    <a href="{{ '/news/' | url }}">← All News</a>
+  </nav><br>
+
 
 <article>
   <h1>{{ title }}</h1>
   <p>
     <small>
-      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time> by <a href="/authors/{{ author | slug }}/">{{ author }}</a>
-    </small>
-  </p>
+      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time> 
+      <!--by <a href="/authors/{{ author | slug }}/">{{ author }}--></a>
+    </small>    
+  </p> 
 
   {{ layoutContent | safe }}
 
@@ -27,5 +32,5 @@ section: post
 </article>
 
 <nav>
-  <a href="{{ '/news/' | url }}">← All News Posts</a>
+  <a href="{{ '/news/' | url }}">← All News</a>
 </nav>

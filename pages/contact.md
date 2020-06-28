@@ -1,5 +1,5 @@
 ---
-layout: layouts/contact.njk
+layout: layouts/contact.html
 title: Contact FTAA
 section: contact
 date: 2020-06-24T09:46:13.940Z

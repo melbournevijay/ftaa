@@ -1,5 +1,5 @@
 ---
-layout: layouts/base.njk
+layout: layouts/base.html
 section: blog
 permalink: /blog/index.html
 ---
@@ -8,4 +8,4 @@ permalink: /blog/index.html
 {{ layoutContent | safe }}
 
 {% set postslist = collections.post %}
-{% include "components/postslist.njk" %}
+{% include "components/postslist.html" %}

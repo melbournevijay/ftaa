@@ -1,0 +1,22 @@
+<!doctype html>
+<html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
+
+	{% include "components/head.html" %}
+
+	<body>
+
+		{% include "components/header.html" %}
+
+		<main class="site-main">
+			<div class="container">
+				{{ layoutContent | safe }}
+			</div>	
+		</main>
+
+		{% include "components/sidebar.html" %}
+
+		{% include "components/footer.html" %}
+
+	</body>
+
+</html>

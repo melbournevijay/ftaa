@@ -22,6 +22,4 @@ FTAA is emerging to be the peak body representing all Telugu Community Groups in
 6. To establish such facilities and to do all such other lawful activities as are incidental or conducive to the attainment of the vision of the Federation.
 7. To coordinate resources and enable the local member associations to celebrate major Telugu functions and festivals every year.
 
-Download the document in PDF (Attach the PDF document). 
-
 Provide comments to [President.FTAA@gmail.com](http://web.archive.org/web/20200308152131/mailto:President.FTAA@gmail.com)

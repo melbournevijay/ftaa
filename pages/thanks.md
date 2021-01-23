@@ -5,6 +5,6 @@ permalink: /thanks/
 eleventyNavigation: false
 ---
 
-Your form submission has been received.
+Your form submission has been received by FTAA.
 
 We will get back in touch with you shortly.
